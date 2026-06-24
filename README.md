@@ -1,1 +1,1 @@
-# classification
+A deep learning project that classifies images as Cat or Dog using Transfer Learning with VGG16. The model is trained on labeled image datasets and can predict the class of new images with high accuracy.
